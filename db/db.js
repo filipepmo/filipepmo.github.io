@@ -116,7 +116,7 @@ export default {
 	experience: [
 		{
 			title: "Online Services Programmer",
-			duration: "April 2022 - Present",
+			duration: "Feb 2020 - Present",
 			subtitle: "Ubisoft Düsseldorf",
 			details: [
 				"Responsible for implementing and maintaining Ubisoft specific features in the Online Services ecosystem",
