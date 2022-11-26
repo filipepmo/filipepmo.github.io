@@ -217,6 +217,11 @@ function getElement(tagName,className) {
 }
 
 
-populateSkills(data.skills, "skills");
+populateSkills(data.skills_architecture, "skills_architecture");
+populateSkills(data.skills_practices, "skills_practices");
+populateSkills(data.skills_backend, "skills_backend");
+populateSkills(data.skills_frontend, "skills_frontend");
+populateSkills(data.skills_infra, "skills_infra");
+populateSkills(data.skills_tools, "skills_tools");
 populateProjects(data.projects.web, "web-projects");
 populateExp_Edu(data.experience, "experience");
